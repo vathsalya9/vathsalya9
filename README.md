@@ -15,15 +15,20 @@
   <p class="typewriter" id="typing-effect"></p> 
 </div>
 
+<div align="center">
+  <p style="color: #333; font-size: 16px;">
+    "Thanks for taking a moment to explore my profile - I'm excited to share my journey with you" 🚀
+    Hello, my name is <strong style="color: #4A6274;">Vathsalya Pakalapati</strong> and I am a 2024 Graduate Student from <a href="https://www.syracuse.edu/" style="color: #FF7518;">Syracuse University</a> majored in Computer and Information Sciences.
+   I am a <a href="">FULL-STACK SOFWTARE DEVELOPER</a> with three years of experience working as a Software Engineer at <a href="https://www.maqsoftware.com" style="color: #990F02;">MAQ</a> <a href="https://www.maqsoftware.com" style="color: #FFFFFF;">Software</a>.
+  </p>
+</div>
 <table width="100%">
 <tr>
   <td width="50%" valign="top">
 <!-- Profile Information -->
 <div align="center">
   <p style="color: #333; font-size: 16px;">
-    Hello, my name is <strong style="color: #4A6274;">Vathsalya Pakalapati</strong> and I am a 2024 Graduate Student from <a href="https://www.syracuse.edu/" style="color: #FF7518;">Syracuse University</a> majored in Computer and Information Sciences.
-   <li>I am a <a href="">FULL-STACK SOFWTARE DEVELOPER</a> with three years of experience working as a Software Engineer at <a href="https://www.maqsoftware.com" style="color: #990F02;">MAQ</a> <a href="https://www.maqsoftware.com" style="color: #FFFFFF;">Software</a>.</li>
-   <li>My technology stack involves React.js, Java/J2EE, Spring, Maven, Hibernate, MySQL, JavaScript, and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Sketching, Painting. </li>
+   Full Stack Developer with real time experience in designing, building, debugging, deploying and managing web applications. Experienced in front-end and back-end development. Skilled in React, Spring Boot, Java, RESTful APIs, Microservices architecture, Java Script, NOSQL databases. Proficient in full project lifecycle from conception to deployment.
   </p>
 </div>
 <div align="left">
