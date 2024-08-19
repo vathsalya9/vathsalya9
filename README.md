@@ -19,7 +19,6 @@
   <p style="color: #333; font-size: 16px;">
     Thanks for taking a moment to explore my profile - I'm excited to share my journey with you 🚀
   </p>
-  <p> "The more I learn 📚, the more I realize how much I don’t know 🤔. The only true wisdom 🎓 is in knowing you know nothing 🧠."</p>
   <p style="color: #333; font-size: 16px;">
     Hello, my name is <strong style="color: #4A6274;">Vathsalya Pakalapati</strong> and I am a 2024 Graduate Student from <a href="https://www.syracuse.edu/" style="color: #FF7518;">Syracuse University</a> majored in Computer and Information Sciences.
    I am a <a href="">FULL-STACK SOFWTARE DEVELOPER</a> with 3+ years of experience working as a <a href="">SOFTWARE ENGINEER</a> at <a href="https://www.maqsoftware.com" style="color: #990F02;">MAQ</a> <a href="https://www.maqsoftware.com" style="color: #FFFFFF;">Software</a>.
@@ -47,6 +46,7 @@
 </td>
  <td width="50%" valign="top">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Full-stack Development" style="width: 100%; height: auto;" />
+   <p> "The more I LEARN 📚, the more I realize how much I don’t know 🤔. The only true wisdom 🎓 is in knowing you know nothing 🧠."</p>
   </td>
   </tr>
 </table>
