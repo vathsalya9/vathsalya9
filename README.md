@@ -2,13 +2,13 @@
 <div align="center">
   <h1 style="color: #4A90E2;">Hello there 👋, I am <a href="https://github.com/vathsalya9" style="color: #E94E77;">Vathsalya Pakalapati</a>! 😁</h1>
   <p>
-    <a href="https://www.linkedin.com/in/vathsalya-pakalapati/">
+    <a href="https://www.linkedin.com/in/vathsalyapakalapati/">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&style=flat" alt="LinkedIn" />
     </a>
     <a href="https://github.com/vathsalya9">
       <img src="https://img.shields.io/badge/-GitHub-%23121011?logo=github&style=flat" alt="GitHub" />
     </a>
-    <a href="https://leetcode.com/vathsalya/">
+    <a href="https://leetcode.com/u/vathsalya1999/">
       <img src="https://img.shields.io/badge/-LeetCode-%23F9D83C?logo=leetcode&style=flat" alt="LeetCode" />
     </a>
   </p>
