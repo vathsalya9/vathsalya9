@@ -45,7 +45,7 @@
 </div>
 </td>
  <td width="50%" valign="center">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Full-stack Development" style="width: 100%; height: 400px;" />
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Full-stack Development" style="width: 100%; height: 300px;" />
    <p> "The more I LEARN 📚, the more I realize how much I don’t know 🤔. The only true wisdom 🎓 is in knowing you know nothing 🧠."</p>
   </td>
   </tr>
