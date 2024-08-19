@@ -12,6 +12,7 @@
       <img src="https://img.shields.io/badge/-LeetCode-%23F9D83C?logo=leetcode&style=flat" alt="LeetCode" />
     </a>
   </p>
+  <p class="typewriter" id="typing-effect"></p> 
 </div>
 
 <table width="100%">
@@ -28,7 +29,9 @@
     <li>🔭 I’m currently working as a Student Web Developer at Syracuse University, where working on the university blackboard website modifications <a href="https://blackboard.syracuse.edu/" style="color: #4A90E2;">Black Board</a></li>
     <li>😄 Pronouns: Programmer/She/Her/Hers</li>
     <li>💬 Brainstorm with me over tech, algorithms, career, and sketching</li>
-    <li>📫 How to reach me: <a href="mailto:vathsalya1999@gmail.com" style="color: #4A90E2;">vathsalya1999@gmail.com</a> | <a href="mailto:vpakalap@syr.edu" style="color: #4A90E2;">vpakalap@syr.edu</a></li>
+    <li>📫 How to reach me: <a href="mailto:vathsalya1999@gmail.com" style="color: #4A90E2;">
+      vathsalya1999@gmail.com</a> 
+      | <a href="mailto:vpakalap@syr.edu" style="color: #4A90E2;">vpakalap@syr.edu</a></li>
   </ul>
 </div>
 </td>
