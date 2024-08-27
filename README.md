@@ -11,6 +11,9 @@
     <a href="https://leetcode.com/u/vathsalya1999/">
       <img src="https://img.shields.io/badge/-LeetCode-%23F9D83C?logo=leetcode&style=flat" alt="LeetCode" />
     </a>
+    <a href="path/to/your/resume.pdf" target="_blank" style="text-decoration: none; margin-left: 10px; color: #000; font-weight: bold;">
+      Resume
+    </a>
   </p>
   <p class="typewriter" id="typing-effect"></p> 
 </div>
