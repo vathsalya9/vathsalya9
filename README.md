@@ -11,8 +11,8 @@
     <a href="https://leetcode.com/u/vathsalya1999/">
       <img src="https://img.shields.io/badge/-LeetCode-%23F9D83C?logo=leetcode&style=flat" alt="LeetCode" />
     </a>
-    <a href="Vathasalya_Pakalapati_Resume.pdf" target="_blank" style="display: inline-block; text-decoration: none; margin-left: 10px; padding: 8px 16px; background-color: #FFFFFF; color: #00008B; font-weight: bold; border: 2px solid #00008B; border-radius: 5px;">
-      Resume
+    <a href="Pakalapati_Vathasalya_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/-Resume-%23FFFFFF?logoColor=00008B&style=flat&color=lightgrey" alt="Resume" />
     </a>
   </p>
   <p class="typewriter" id="typing-effect"></p> 
